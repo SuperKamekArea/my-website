@@ -4,5 +4,5 @@ this is my website
 <h6>thank god github's implementation of markdown supports html</h6><br />
 What is my website? Basically, games, and animations and more<br />
 What software do i use to make graphics? I use GNU Image Manipulation Program 2.8 MS-Paint.<br />
-The text below is a marquee, if github's html implementation in it's markdown implementation supports marquee<br />
-<marquee>Marquee</marquee>
+My website is best viewed in internet explorer<br />
+<a href=http://superkamekarea.github.io/>Click here to access my website</a>
