@@ -13,6 +13,7 @@ body {
   scrollbar-shadow-color: #bbb;
   scrollbar-dark-shadow-color: #444;
   background-color: #eeeeee;
+  -ms-overflow-style: -ms-autohiding-scrollbar; // autohide scrollbar
   margin: 0px; // everywhere for the sake of consistency, used to make games not overflow.
 }
 .box {
