@@ -1,1 +1,29 @@
-f
+table {
+border-color: #ffffff;
+border-style: outset;
+}
+body {
+  -ms-overflow-x: hidden;
+  scrollbar-base-color: #eee;
+  scrollbar-face-color: #ddd;
+  scrollbar-3dlight-color: #fff;
+  scrollbar-highlight-color: #fff;
+  scrollbar-track-color: #aaa;
+  scrollbar-arrow-color: #000;
+  scrollbar-shadow-color: #bbb;
+  scrollbar-dark-shadow-color: #444;
+  background-color: #eeeeee;
+  -ms-overflow-style: -ms-autohiding-scrollbar;
+  margin: 0px; // everywhere for the sake of consistency, used to make games not overflow.
+  padding: 0px; // everywhere for the sake of consistency, used to make games not overflow.
+  font-family: Comic Sans MS;
+}
+.box {
+border: 4px #ffffff outset;
+background-color: #aaa;
+}
+@media only screen and (min-width: 640px) {
+.lowres {
+display: none;
+}
+}
