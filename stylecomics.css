@@ -16,7 +16,7 @@ body {
   -ms-overflow-style: -ms-autohiding-scrollbar;
   margin: 0px; // everywhere for the sake of consistency, used to make games not overflow.
   padding: 0px; // everywhere for the sake of consistency, used to make games not overflow.
-  font-family: "Comic Sans MS";
+font-family: "Comic Sans MS", "Comic Sans";
 }
 .box {
 border: 4px #ffffff outset;
