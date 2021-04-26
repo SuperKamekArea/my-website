@@ -15,8 +15,8 @@ body {
   background-color: #eeeeee;
   -ms-overflow-style: -ms-autohiding-scrollbar;
   font-family: "Comic Sans MS", "Comic Sans";
-  margin: 0px; // everywhere for the sake of consistency, used to make games not overflow.
-  padding: 0px; // everywhere for the sake of consistency, used to make games not overflow.
+  margin: 0px; /* everywhere for the sake of consistency, used to make games not overflow. */
+  padding: 0px; /* everywhere for the sake of consistency, used to make games not overflow. */
 }
 .box {
 border: 4px #ffffff outset;
