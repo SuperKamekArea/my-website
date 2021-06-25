@@ -1,0 +1,23 @@
+<xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+<channel>
+<title>SuperKamekWorld Blog</title>
+<link>http://superkamekarea.github.io/</link>
+<description>Here you will find updates about the website linked and my website Garlic Cat Content which is in beta</description>
+<language>en-us</language>
+<image>
+<title>SuperKamekWorld Blog</title>
+<link>http://superkamekarea.github.io/</link>
+<url>http://superkamekarea.github.io/images/epicwebsitelogo.jpg</url>
+<width>480</width>
+<height>150</height>
+</image>
+<item>
+<title>Blog</title>
+<pubDate>Thu 24 Jun 2021 13:35</pubDate>
+<description><![CDATA[This is a test of RSS]]></description>
+<author>drm92010@outlook.com</author>
+<comments>http://superkamekarea.github.io/fbcommentsforfeed/post1.htm</comments>
+</item>
+</channel>
+</rss>
